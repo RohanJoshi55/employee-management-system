@@ -1,16 +1,7 @@
-# dependencies
-node_modules/
-
-# environment variables
 .env
-
-# build files
+.env.*
+backend/.env
+frontend/.env
+node_modules/
 dist/
 build/
-
-# logs
-*.log
-
-# OS files
-.DS_Store
-Thumbs.db
